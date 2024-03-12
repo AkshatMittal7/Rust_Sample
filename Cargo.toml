@@ -1,0 +1,8 @@
+[package]
+name = "metadata_outputter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+watch = "0.2.3"
+chrono = "0.4"
